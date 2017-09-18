@@ -1,2 +1,2 @@
 # life
-A simple implementation of Conway's Game of Life.
+![Game of Life](./screenshot.gif)
